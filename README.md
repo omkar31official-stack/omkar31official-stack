@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a college student <br>i am an engineer <br>i am persueing computer science course<br>
+i am a college student  <br>i am persueing computer science course<br>
 
 
 ## 🌐 Socials:
