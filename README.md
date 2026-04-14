@@ -163,17 +163,24 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omkar31official-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="49%" />
+<table border="0">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar31official-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Omkar's GitHub Stats" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar31official-stack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar31official-stack&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=omkar31official-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar31official-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar31official-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkar31official-stack&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -183,7 +190,7 @@ while True:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omkar31official-stack&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=omkar31official-stack&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true&margin-w=4" alt="Trophies" />
 
 </div>
 
@@ -213,6 +220,6 @@ while True:
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
 
 </div>
